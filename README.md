@@ -11,9 +11,9 @@
   [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - Pattern Recognition, 2017<br>
   [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -<br>
 ### Generation
-   [OCR software for recognition of handwritten text](https://github.com/Breta01/handwriting-ocr)
-   [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)
+   [OCR software for recognition of handwritten text](https://github.com/Breta01/handwriting-ocr)<br>
+   [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
 
 ### Database
-  
+    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html)<br>
 ## Layout Analysis
