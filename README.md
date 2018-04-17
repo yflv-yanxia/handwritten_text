@@ -15,4 +15,8 @@
    [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
 ### Database
    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
+   [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br>
+   [The RIMES database](http://www.a2ialab.com/doku.php?id=rimes_database:start)<br>
+   [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)<br>
+   [Handwriting Database](https://www.gavo.t.u-tokyo.ac.jp/~qiao/database.html)<br>
 ## Layout Analysis
