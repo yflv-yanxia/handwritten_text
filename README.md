@@ -1,4 +1,4 @@
-# handwritten_text
+# handwritting_text
 ## Recognition
 ### Character Recognition 
   [Toward high-performance online HCCR: a CNN approach with DropDistortion, path signature and spatial stochastic max-pooling](https://arxiv.org/abs/1702.07508) -Songxuan Lai, Lianwen Jin, Weixin Yang, arxiv, 2017<br>
@@ -8,8 +8,10 @@
 ### Text Recognition 
   [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Z Xie,et al,TPAMI,2017<br>
   [Building fast and compact convolutional neural networks for offline handwritten Chinese character recognition](https://arxiv.org/pdf/1702.07975) -X Xiao, L Jin,et al, PR,2017<br>
-  [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - Pattern Recognition, 2017<br>
-  [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -<br>
+  [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - PR, 2017<br>
+  [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -Daniel Keysers, et al, TPAMI, 2017<br>
+  [Simultaneous Script Identification and Handwriting Recognition via Multi-Task Learning of Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8270023/)-Zhuo Chen, et al, ICDAR, 2017<br>
+  [Handwritten Chinese Text Recognition Using Separable Multi-Dimensional Recurrent Neural Network](https://ieeexplore.ieee.org/abstract/document/8269953/) -Yi-Chao Wu, et al, ICDAR, 2017<br>
 ### Generation
    [OCR software for recognition of handwritten text](https://github.com/Breta01/handwriting-ocr)<br>
    [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
