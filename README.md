@@ -18,7 +18,8 @@
 ### Database
    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
    [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br>
-   [The RIMES database](http://www.a2ialab.com/doku.php?id=rimes_database:start)<br>
-   [IAM Handwriting Database](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)<br>
+   [The RIMES database-French](http://www.a2ialab.com/doku.php?id=rimes_database:start)<br>
+   [IAM Handwriting Database-English](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)<br>
    [Handwriting Database](https://www.gavo.t.u-tokyo.ac.jp/~qiao/database.html)<br>
+   [IFN/ENIT-arabic database](http://www.ifnenit.com/)<br>
 ## Layout Analysis
