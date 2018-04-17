@@ -15,5 +15,5 @@
    [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
 
 ### Database
-    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html)<br>
+    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
 ## Layout Analysis
