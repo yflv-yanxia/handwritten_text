@@ -47,4 +47,5 @@
    [IFN/ENIT-arabic database](http://www.ifnenit.com/)<br>
    [A novel comprehensive database for offline Persian handwriting recognition - Persian handwriting database](https://www.sciencedirect.com/science/article/pii/S0031320316300097) -J Sadri, MR Yeganehzad, PR2016<br>
    [A database of unconstrained Vietnamese online handwriting and recognition experiments by recurrent neural networks - Vietnamese online handwriting database](https://www.sciencedirect.com/science/article/pii/S0031320318300141) -PR2018<br>
+   [ICDAR 2017 Competition on Information Extraction in Historical Handwritten Records (IEHHR) ](http://www.cvc.uab.es/5cofm/competition/) -
 ## Layout Analysis
