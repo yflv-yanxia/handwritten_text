@@ -12,6 +12,7 @@
   [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -Daniel Keysers, et al, TPAMI, 2017<br>
   [Simultaneous Script Identification and Handwriting Recognition via Multi-Task Learning of Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8270023/)-Zhuo Chen, et al, ICDAR, 2017<br>
   [Handwritten Chinese Text Recognition Using Separable Multi-Dimensional Recurrent Neural Network](https://ieeexplore.ieee.org/abstract/document/8269953/) -Yi-Chao Wu, et al, ICDAR, 2017<br>
+  [Fully convolutional recurrent network for handwritten chinese text recognition](http://ieeexplore.ieee.org/abstract/document/7900261/) -Z Xie, Z Sun, L Jin, Z Feng, ICPR2016<br>
 ### Generation
    [OCR software for recognition of handwritten text](https://github.com/Breta01/handwriting-ocr)<br>
    [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
