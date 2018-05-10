@@ -3,6 +3,7 @@
 ### Character Recognition 
   [Drawing and recognizing chinese characters with recurrent neural network](https://ieeexplore.ieee.org/abstract/document/7903730/) -XY Zhang, F Yin, YM Zhang, CL Liu, TPAMI2018<br>
   [Trajectory-based Radical Analysis Network for Online Handwritten Chinese Character Recognition](https://arxiv.org/abs/1801.10109) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv, 2018<br>
+  [Building fast and compact convolutional neural networks for offline handwritten Chinese character recognition](https://arxiv.org/pdf/1702.07975) -X Xiao, L Jin,et al, PR,2017<br>
   [Toward high-performance online HCCR: a CNN approach with DropDistortion, path signature and spatial stochastic max-pooling](https://arxiv.org/abs/1702.07508) -Songxuan Lai, Lianwen Jin, Weixin Yang, arxiv, 2017<br>
   [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/abs/1705.05207) -Xuefeng Xiao, et al, arxiv, 2017<br>
   [Online and offline handwritten chinese character recognition: A comprehensive study and new benchmark](https://arxiv.org/pdf/1606.05763) -XY Zhang, Y Bengio, CL Liu,PR, 2017<br>
@@ -12,7 +13,6 @@
 ### Text Recognition 
   [Scan, attend and read: End-to-end handwritten paragraph recognition with mdlstm attention](https://ieeexplore.ieee.org/abstract/document/8270105/authors) -A2iA, ICDAR2017<br>
   [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Z Xie,et al,TPAMI,2017<br>
-  [Building fast and compact convolutional neural networks for offline handwritten Chinese character recognition](https://arxiv.org/pdf/1702.07975) -X Xiao, L Jin,et al, PR,2017<br>
   [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - PR, 2017<br>
   [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -Daniel Keysers, et al, TPAMI, 2017<br>
   [Simultaneous Script Identification and Handwriting Recognition via Multi-Task Learning of Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8270023/)-Zhuo Chen, et al, ICDAR, 2017<br>
