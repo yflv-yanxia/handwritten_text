@@ -31,7 +31,7 @@
   [Faster Segmentation-Free Handwritten Chinese Text Recognition with Character Decompositions](https://ieeexplore.ieee.org/abstract/document/7814119/) -A2iA, ICFHR2016<br>
   [Handwriting Recognition with Large Multidimensional Long Short-Term Memory Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/7814068/) -Paul Voigtlaender, et al, ICFHR2016<br>
   [On the benefits of convolutional neural network combinations in offline handwriting recognition](https://ieeexplore.ieee.org/abstract/document/7814062/) -D Suryani, P Doetsch, H Ney, ICFHR2016<br>
-  [Segmentation-free handwritten Chinese text recognition with LSTM-RNN]() -A2iA, ICDAR2015<br>
+  [Segmentation-free handwritten Chinese text recognition with LSTM-RNN](https://ieeexplore.ieee.org/abstract/document/7333746/) -A2iA, ICDAR2015<br>
 ### Mathematics expression
    [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017<br>
    
