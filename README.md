@@ -39,6 +39,7 @@
    [OCR software for recognition of handwritten text](https://github.com/Breta01/handwriting-ocr)<br>
    [Plain text to handwriting generator.](https://github.com/theSage21/handwritten)<br>
    [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/abs/1804.06254) -Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri, arxiv2018<br>
+   [Chinese Typography Transfer]() -Jie Chang, Yujun Gu, arxiv2017<br>
 ### Database
    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
    [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br>
