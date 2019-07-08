@@ -12,6 +12,7 @@
   [Automatic labeling of large amounts of handwritten characters with gate-guided dynamic deep learning](https://www.sciencedirect.com/science/article/pii/S0167865517303628) -YuliangLiu, LianwenJin, SongxuanLai, PRL2017<br>
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
 ### Text Recognition 
+  [Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/abs/1906.05229) -Junho Jo, arxiv2019<br>
   [A Scalable Handwritten Text Recognition System](https://arxiv.org/abs/1904.09150) -google, arxiv2019<br>
   [Manifold Mixup improves text recognition with CTC loss](https://arxiv.org/abs/1903.04246) -a2ia, arxiv1903<br>
   [Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894) -Mohamed Yousef, et al, arxiv2018<br>
