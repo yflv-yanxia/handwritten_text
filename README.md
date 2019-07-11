@@ -11,6 +11,7 @@
   [Building fast and compact convolutional neural networks for offline handwritten Chinese character recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302558) -X Xiao, L Jin, Y Yang, W Yang, J Sun, T Chang, PR2017<br>
   [Automatic labeling of large amounts of handwritten characters with gate-guided dynamic deep learning](https://www.sciencedirect.com/science/article/pii/S0167865517303628) -YuliangLiu, LianwenJin, SongxuanLai, PRL2017<br>
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
+  [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
 ### Text Recognition 
   [Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/abs/1906.05229) -Junho Jo, arxiv2019<br>
   [A Scalable Handwritten Text Recognition System](https://arxiv.org/abs/1904.09150) -google, arxiv2019<br>
