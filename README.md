@@ -13,6 +13,7 @@
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
 ### Text Recognition 
+  [Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1912.07806) -dujun, arxiv2019<br>
   [Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302547) -huoqiang, PR2019<br>
   [Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/abs/1906.05229) -Junho Jo, arxiv2019<br>
   [A Scalable Handwritten Text Recognition System](https://arxiv.org/abs/1904.09150) -google, arxiv2019<br>
