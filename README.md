@@ -37,6 +37,7 @@
   [Handwriting Recognition with Multi-gram language models](http://grce.labri.fr/taladoc-sifed/pdf/Swaileh_handwritting-recognition-multi_final.pdf) -W Swaileh, ICDAR2017<br>
   [Gated Convolutional Recurrent Neural Networks for Multilingual Handwriting Recognition](http://www.tbluche.com/files/icdar17_gnn.pdf) -T Bluche, ICDAR2017<br>
   [CNN-N-Gram for Handwriting Word Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/Poznanski_CNN-N-Gram_for_Handwriting_CVPR_2016_paper.pdf) -Arik Poznanski and Lior Wolf, CVPR2016<br>
+  [Deep Knowledge Training and Heterogeneous CNN for Handwritten Chinese Text Recognition](https://ieeexplore.ieee.org/abstract/document/7814044) -Fujitsu, ICFHR2016<br>
   [Fully convolutional recurrent network for handwritten chinese text recognition](http://ieeexplore.ieee.org/abstract/document/7900261/) -Z Xie, Z Sun, L Jin, Z Feng, ICPR2016<br>
   [Convolutional Multi-directional Recurrent Network for Offline Handwritten Text Recognition](https://ieeexplore.ieee.org/abstract/document/7814070/) -Z Sun, L Jin, Z Xie, Z Feng, ICFHR2016<br>
   [Faster Segmentation-Free Handwritten Chinese Text Recognition with Character Decompositions](https://ieeexplore.ieee.org/abstract/document/7814119/) -A2iA, ICFHR2016<br>
