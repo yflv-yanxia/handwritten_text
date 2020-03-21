@@ -16,6 +16,7 @@
   [Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1912.07806) -dujun, arxiv2019<br>
   [Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302547) -huoqiang, PR2019<br>
   [Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/abs/1906.05229) -Junho Jo, arxiv2019<br>
+  [A Fast and Accurate Fully Convolutional Network for End-to-End Handwritten Chinese Text Segmentation and Recognition](https://ieeexplore.ieee.org/abstract/document/8977956) -Lianwen Jin, ICDAR2019<br>
   [A Scalable Handwritten Text Recognition System](https://arxiv.org/abs/1904.09150) -google, arxiv2019<br>
   [Manifold Mixup improves text recognition with CTC loss](https://arxiv.org/abs/1903.04246) -a2ia, arxiv2019<br>
   [Writer-Aware CNN for Parsimonious HMM-Based Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1812.09809) -Jun Du, PR2019<br>
