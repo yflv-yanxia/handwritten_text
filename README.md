@@ -22,6 +22,7 @@
   [Writer-Aware CNN for Parsimonious HMM-Based Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1812.09809) -Jun Du, PR2019<br>
   [A comprehensive study of hybrid neural network hidden Markov model for offline handwritten Chinese text recognition](http://staff.ustc.edu.cn/~jundu/Publications/publications/wang_journal_IJDAR.pdf) -Jun Du, IJDAR2018<br>
   [Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894) -Mohamed Yousef, et al, arxiv2018<br>
+  [Handwriting Recognition in Low-resource Scripts using Adversarial Learning](https://arxiv.org/abs/1811.01396) -Ayan Kumar Bhunia, et. al, CVPR2019[code](https://github.com/AyanKumarBhunia/Handwriting_Recogition_using_Adversarial_Learning)<br>
   [Deep convolutional neural network based hidden Markov model for offline handwritten Chinese text recognition](http://staff.ustc.edu.cn/~jundu/Publications/publications/ACPR17-1.pdf) -Jun Du, ACPR2017<br>
   [Scan, attend and read: End-to-end handwritten paragraph recognition with mdlstm attention](https://ieeexplore.ieee.org/abstract/document/8270105/authors) -A2iA, ICDAR2017<br>
   [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Z Xie,et al,TPAMI,2017<br>
