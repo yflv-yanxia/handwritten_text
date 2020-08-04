@@ -13,6 +13,7 @@
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
 ### Text Recognition 
+  [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/2006.15619) -intel, arxiv2020<br>
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
   [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://arxiv.org/abs/2005.13044) -kang lei, arxiv2020<br>
   [Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1912.07806) -dujun, arxiv2019<br>
