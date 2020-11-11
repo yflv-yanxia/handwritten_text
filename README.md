@@ -58,6 +58,7 @@
    [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/abs/1804.06254) -Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri, arxiv2018<br>
    [Chinese Typography Transfer]() -Jie Chang, Yujun Gu, arxiv2017<br>
 ### Database
+   [SCUT-EPT](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release)<br>
    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
    [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br>
    [The RIMES database-French](http://www.a2ialab.com/doku.php?id=rimes_database:start)<br>
