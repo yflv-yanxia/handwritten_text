@@ -28,7 +28,7 @@
   [Handwriting Recognition in Low-resource Scripts using Adversarial Learning](https://arxiv.org/abs/1811.01396) -Ayan Kumar Bhunia, et. al, CVPR2019[code](https://github.com/AyanKumarBhunia/Handwriting_Recogition_using_Adversarial_Learning)<br>
   [Deep convolutional neural network based hidden Markov model for offline handwritten Chinese text recognition](http://staff.ustc.edu.cn/~jundu/Publications/publications/ACPR17-1.pdf) -Jun Du, ACPR2017<br>
   [Scan, attend and read: End-to-end handwritten paragraph recognition with mdlstm attention](https://ieeexplore.ieee.org/abstract/document/8270105/authors) -A2iA, ICDAR2017<br>
-  [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Z Xie,et al,TPAMI,2017<br>
+  [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Jinlianwen,et al,TPAMI,2017<br>
   [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - PR, 2017<br>
   [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -Daniel Keysers, et al, TPAMI, 2017<br>
   [Simultaneous Script Identification and Handwriting Recognition via Multi-Task Learning of Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8270023/)-Zhuo Chen, et al, ICDAR, 2017<br>
@@ -37,6 +37,7 @@
   [Handwriting Recognition by Attribute Embedding and Recurrent Neural Networks](http://www.cvc.uab.es/~afornes/publi/conferences/2017_ICDAR_JIToledo.pdf) -JI Toledo, et al, ICDAR2017<br>
   [Compact and efficient WFST-based decoders for handwriting recognition](https://ieeexplore.ieee.org/abstract/document/8269963/) -M Cai, Q Huo, ICDAR2017<br>
   [A compact CNN-DBLSTM based character model for offline handwriting recognition with Tucker decomposition](https://ieeexplore.ieee.org/abstract/document/8270020/) -H Ding, K Chen, ICDAR2017<br>
+  [A Compact CNN-DBLSTM Based Character Model for Online Handwritten Chinese Text Recognition](https://ieeexplore.ieee.org/abstract/document/8270108) -Huoqiang, ICDAR2017<br>
   [High performance text recognition using a hybrid convolutional-lstm implementation](https://ieeexplore.ieee.org/abstract/document/8269943/) -TM Breuel, ICDAR2017<br>
   [Multi-layer recurrent neural network based offline Arabic handwriting recognition](http://ieeexplore.ieee.org/abstract/document/8067749/) -L Chen, R Yan, L Peng, ICDAR2017<br>
   [Handwriting Recognition with Multi-gram language models](http://grce.labri.fr/taladoc-sifed/pdf/Swaileh_handwritting-recognition-multi_final.pdf) -W Swaileh, ICDAR2017<br>
