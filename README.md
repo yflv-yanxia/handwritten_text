@@ -1,6 +1,7 @@
 # handwritting_text
 ## Recognition
 ### Character Recognition 
+  [Radical analysis network for learning hierarchies of Chinese characters](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301096) -Dujun, PR2020<br>
   [DenseRAN for Offline Handwritten Chinese Character Recognition](https://arxiv.org/abs/1808.04134) -Wenchao Wang, Jianshu Zhang, Jun Du, Zi-Rui Wang, Yixing Zhu, arxiv, 2018<br>
   [Drawing and recognizing chinese characters with recurrent neural network](https://ieeexplore.ieee.org/abstract/document/7903730/) -XY Zhang, F Yin, YM Zhang, CL Liu, TPAMI2018<br>
   [Trajectory-based Radical Analysis Network for Online Handwritten Chinese Character Recognition](https://arxiv.org/abs/1801.10109) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv, 2018<br>
