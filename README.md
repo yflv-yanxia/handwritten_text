@@ -12,6 +12,7 @@
   [Automatic labeling of large amounts of handwritten characters with gate-guided dynamic deep learning](https://www.sciencedirect.com/science/article/pii/S0167865517303628) -YuliangLiu, LianwenJin, SongxuanLai, PRL2017<br>
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
+  [DropSample: A New Training Method to Enhance Deep Convolutional Neural Networks for Large-Scale Unconstrained Handwritten Chinese Character Recognition](https://arxiv.org/ftp/arxiv/papers/1505/1505.05354.pdf) -jinlianwen, PR2016<br>
 ### Text Recognition 
   [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/2006.15619) -intel, arxiv2020<br>
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
