@@ -15,6 +15,7 @@
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
   [DropSample: A New Training Method to Enhance Deep Convolutional Neural Networks for Large-Scale Unconstrained Handwritten Chinese Character Recognition](https://arxiv.org/ftp/arxiv/papers/1505/1505.05354.pdf) -jinlianwen, PR2016<br>
 ### Text Recognition 
+  [Full Page Handwriting Recognition via Image to Sequence Extraction](https://arxiv.org/abs/2103.06450) -Turnitin LLC, arxiv2021<br>
   [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/2006.15619) -intel, arxiv2020<br>
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
   [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://arxiv.org/abs/2005.13044) -kang lei, arxiv2020<br>
