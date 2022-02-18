@@ -65,6 +65,7 @@
 ### Database
    [SCUT-HCCDoc_Dataset](https://github.com/HCIILAB/SCUT-HCCDoc_Dataset_Release)<br>
    [SCUT-EPT](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release)<br>
+   [TKH_MTH_Datasets](https://github.com/HCIILAB/TKH_MTH_Datasets_Release)<br>
    [CASIA Online and Offline Chinese Handwriting Databases](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html) <br>
    [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br>
    [The RIMES database-French](http://www.a2ialab.com/doku.php?id=rimes_database:start)<br>
