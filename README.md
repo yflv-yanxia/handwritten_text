@@ -18,6 +18,7 @@
   [Recognizing Handwritten Chinese Texts with Insertion and Swapping Using a Structural Attention Network](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_37) -pal, ICDAR2021<br>
   [Recurrent neural network transducer for Japanese and Chinese offline handwritten text recognition](https://arxiv.org/abs/2106.14459) -Masaki Nakagawa, arxiv2021<br>
   [Full Page Handwriting Recognition via Image to Sequence Extraction](https://arxiv.org/abs/2103.06450) -Turnitin LLC, arxiv2021<br>
+  [Fast multi-language LSTM-based online handwriting recognition](https://link.springer.com/article/10.1007/s10032-020-00350-4) -google, IJDAR2020<br>
   [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/2006.15619) -intel, arxiv2020<br>
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
   [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://arxiv.org/abs/2005.13044) -kang lei, arxiv2020<br>
