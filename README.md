@@ -46,6 +46,7 @@
   [A Compact CNN-DBLSTM Based Character Model for Online Handwritten Chinese Text Recognition](https://ieeexplore.ieee.org/abstract/document/8270108) -Huoqiang, ICDAR2017<br>
   [High performance text recognition using a hybrid convolutional-lstm implementation](https://ieeexplore.ieee.org/abstract/document/8269943/) -TM Breuel, ICDAR2017<br>
   [Multi-layer recurrent neural network based offline Arabic handwriting recognition](http://ieeexplore.ieee.org/abstract/document/8067749/) -L Chen, R Yan, L Peng, ICDAR2017<br>
+  [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576) -salesforce, ICLR2017<br>
   [Handwriting Recognition with Multi-gram language models](http://grce.labri.fr/taladoc-sifed/pdf/Swaileh_handwritting-recognition-multi_final.pdf) -W Swaileh, ICDAR2017<br>
   [Gated Convolutional Recurrent Neural Networks for Multilingual Handwriting Recognition](http://www.tbluche.com/files/icdar17_gnn.pdf) -T Bluche, ICDAR2017<br>
   [CNN-N-Gram for Handwriting Word Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/Poznanski_CNN-N-Gram_for_Handwriting_CVPR_2016_paper.pdf) -Arik Poznanski and Lior Wolf, CVPR2016<br>
@@ -54,7 +55,7 @@
   [Convolutional Multi-directional Recurrent Network for Offline Handwritten Text Recognition](https://ieeexplore.ieee.org/abstract/document/7814070/) -Z Sun, L Jin, Z Xie, Z Feng, ICFHR2016<br>
   [Faster Segmentation-Free Handwritten Chinese Text Recognition with Character Decompositions](https://ieeexplore.ieee.org/abstract/document/7814119/) -A2iA, ICFHR2016<br>
   [Handwriting Recognition with Large Multidimensional Long Short-Term Memory Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/7814068/) -Paul Voigtlaender, et al, ICFHR2016<br>
-  [On the benefits of convolutional neural network combinations in offline handwriting recognition](https://ieeexplore.ieee.org/abstract/document/7814062/) -D Suryani, P Doetsch, H Ney, ICFHR2016<br>
+  [On the benefits of convolutional neural network combinations in offline handwriting recognition](https://ieeexplore.ieee.org/abstract/document/7814062/) -D Suryani, P Doetsch, H Ney, ICFHR2016<br>  
   [Segmentation-free handwritten Chinese text recognition with LSTM-RNN](https://ieeexplore.ieee.org/abstract/document/7333746/) -A2iA, ICDAR2015<br>
    
 ### Generation
