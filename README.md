@@ -29,6 +29,7 @@
   [A Scalable Handwritten Text Recognition System](https://arxiv.org/abs/1904.09150) -google, arxiv2019<br>
   [Manifold Mixup improves text recognition with CTC loss](https://arxiv.org/abs/1903.04246) -a2ia, arxiv2019<br>
   [Writer-Aware CNN for Parsimonious HMM-Based Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1812.09809) -Jun Du, PR2019<br>
+  [End to End Recognition System for Recognizing Offline Unconstrained Vietnamese Handwriting](https://arxiv.org/abs/1905.05381) -arxiv2019<br>
   [A comprehensive study of hybrid neural network hidden Markov model for offline handwritten Chinese text recognition](http://staff.ustc.edu.cn/~jundu/Publications/publications/wang_journal_IJDAR.pdf) -Jun Du, IJDAR2018<br>
   [Accurate, Data-Efficient, Unconstrained Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/1812.11894) -Mohamed Yousef, et al, arxiv2018<br>
   [Handwriting Recognition in Low-resource Scripts using Adversarial Learning](https://arxiv.org/abs/1811.01396) -Ayan Kumar Bhunia, et. al, CVPR2019[code](https://github.com/AyanKumarBhunia/Handwriting_Recogition_using_Adversarial_Learning)<br>
