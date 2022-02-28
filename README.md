@@ -23,6 +23,7 @@
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
   [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://arxiv.org/abs/2005.13044) -kang lei, arxiv2020<br>
   [Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1912.07806) -dujun, arxiv2019<br>
+  [End to End Recognition System for Recognizing Offline Unconstrained Vietnamese Handwriting](https://arxiv.org/abs/1905.05381) -Masaki Nakagawa, arxiv2019<br>
   [Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302547) -huoqiang, PR2019<br>
   [Handwritten Text Segmentation via End-to-End Learning of Convolutional Neural Network](https://arxiv.org/abs/1906.05229) -Junho Jo, arxiv2019<br>
   [A Fast and Accurate Fully Convolutional Network for End-to-End Handwritten Chinese Text Segmentation and Recognition](https://ieeexplore.ieee.org/abstract/document/8977956) -Lianwen Jin, ICDAR2019<br>
