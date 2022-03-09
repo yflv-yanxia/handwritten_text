@@ -10,7 +10,6 @@
   [Toward high-performance online HCCR: a CNN approach with DropDistortion, path signature and spatial stochastic max-pooling](https://arxiv.org/abs/1702.07508) -Songxuan Lai, Lianwen Jin, Weixin Yang, arxiv, 2017<br>
   [Design of a Very Compact CNN Classifier for Online Handwritten Chinese Character Recognition Using DropWeight and Global Pooling](https://arxiv.org/abs/1705.05207) -Xuefeng Xiao, et al, arxiv, 2017<br>
   [Online and offline handwritten chinese character recognition: A comprehensive study and new benchmark](https://arxiv.org/pdf/1606.05763) -XY Zhang, Y Bengio, CL Liu,PR, 2017<br>
-  [Building fast and compact convolutional neural networks for offline handwritten Chinese character recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302558) -X Xiao, L Jin, Y Yang, W Yang, J Sun, T Chang, PR2017<br>
   [Automatic labeling of large amounts of handwritten characters with gate-guided dynamic deep learning](https://www.sciencedirect.com/science/article/pii/S0167865517303628) -YuliangLiu, LianwenJin, SongxuanLai, PRL2017<br>
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
