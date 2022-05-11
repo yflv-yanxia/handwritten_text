@@ -38,7 +38,7 @@
   [Scan, attend and read: End-to-end handwritten paragraph recognition with mdlstm attention](https://ieeexplore.ieee.org/abstract/document/8270105/authors) -A2iA, ICDAR2017<br>
   [Learning spatial-semantic context with fully convolutional recurrent network for online handwritten Chinese text recognition](https://arxiv.org/pdf/1610.02616.pdf) -Jinlianwen,et al,TPAMI,2017<br>
   [Improving handwritten Chinese text recognition using neural network language models and convolutional neural network shape models](https://www.sciencedirect.com/science/article/pii/S0031320316304472) -YC Wu, F Yin, CL Liu - PR, 2017<br>
-  [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -Daniel Keysers, et al, TPAMI, 2017<br>
+  [Multi-language online handwriting recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478642) -google, et al, TPAMI, 2017<br>
   [Simultaneous Script Identification and Handwriting Recognition via Multi-Task Learning of Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8270023/)-Zhuo Chen, et al, ICDAR, 2017<br>
   [Handwritten Chinese Text Recognition Using Separable Multi-Dimensional Recurrent Neural Network](https://ieeexplore.ieee.org/abstract/document/8269953/) -Yi-Chao Wu, et al, ICDAR, 2017<br>
   [Residual Recurrent Neural Network with Sparse Training for Offline Arabic Handwriting Recognition](https://ieeexplore.ieee.org/abstract/document/8270102/) -Ruijie Yan, et al, ICDAR2017<br>
