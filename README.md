@@ -1,6 +1,7 @@
 # handwritting_text
 ## Recognition
 ### Character Recognition 
+  [LCSegNet: An Efficient Semantic Segmentation Network for Large-Scale Complex Chinese Character Recognition](https://ieeexplore.ieee.org/abstract/document/9204447) -TMM2020<br>
   [Radical analysis network for learning hierarchies of Chinese characters](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301096) -Dujun, PR2020<br>
   [LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303807) -Xu TB, PR2019<br>
   [DenseRAN for Offline Handwritten Chinese Character Recognition](https://arxiv.org/abs/1808.04134) -Wenchao Wang, Jianshu Zhang, Jun Du, Zi-Rui Wang, Yixing Zhu, arxiv, 2018<br>
