@@ -14,7 +14,9 @@
   [Radical-Based Chinese Character Recognition via Multi-Labeled Learning of Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/8270031/) -Tie-Qiang Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
   [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889) -Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai, arxiv2017<br>
   [DropSample: A New Training Method to Enhance Deep Convolutional Neural Networks for Large-Scale Unconstrained Handwritten Chinese Character Recognition](https://arxiv.org/ftp/arxiv/papers/1505/1505.05354.pdf) -jinlianwen, PR2016<br>
-### Text Recognition 
+  
+### Text Recognition
+  [PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition](https://link.springer.com/article/10.1007/s11263-022-01654-0) -jinlianwen, IJCV2022<br>
   [Recognizing Handwritten Chinese Texts with Insertion and Swapping Using a Structural Attention Network](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_37) -pal, ICDAR2021<br>
   [Recurrent neural network transducer for Japanese and Chinese offline handwritten text recognition](https://arxiv.org/abs/2106.14459) -Masaki Nakagawa, arxiv2021<br>
   [Full Page Handwriting Recognition via Image to Sequence Extraction](https://arxiv.org/abs/2103.06450) -Turnitin LLC, arxiv2021<br>
