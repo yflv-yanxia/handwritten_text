@@ -21,6 +21,7 @@
   [Recognizing Handwritten Chinese Texts with Insertion and Swapping Using a Structural Attention Network](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_37) -pal, ICDAR2021<br>
   [Text-Conditioned Character Segmentation for CTC-Based Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_10) -ICDAR2021<br>
   [Searching from the Prediction of Visual and Language Model for Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_18) -ICDAR2021<br>
+  [Robust End-to-End Offline Chinese Handwriting Text Page Spotter with Text Kernel](https://link.springer.com/chapter/10.1007/978-3-030-86159-9_2) -ICDARW2021<br>
   [A Residual-Attention Offline Handwritten Chinese Text Recognition Based on Fully Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/9548083) -access2021<br>
   [Zero-Shot Chinese Text Recognition via Matching Class Embedding](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_9) -jinlianwen, ICDAR2021<br>
   [Recurrent neural network transducer for Japanese and Chinese offline handwritten text recognition](https://arxiv.org/abs/2106.14459) -Masaki Nakagawa, arxiv2021<br>
