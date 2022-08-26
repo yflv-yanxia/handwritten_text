@@ -20,6 +20,7 @@
   [PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition](https://link.springer.com/article/10.1007/s11263-022-01654-0) -jinlianwen, IJCV2022, [code](https://github.com/shannanyinxiang/PageNet)<br>
   [Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach](https://arxiv.org/abs/2207.14801) -jinlianwen, TMM2022<br>
   [Recognizing Handwritten Chinese Texts with Insertion and Swapping Using a Structural Attention Network](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_37) -pal, ICDAR2021<br>
+  [Towards Fast, Accurate and Compact Online Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_11) -jinlianwen, ICDAR2021<br>
   [Text-Conditioned Character Segmentation for CTC-Based Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_10) -ICDAR2021<br>
   [Searching from the Prediction of Visual and Language Model for Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_18) -ICDAR2021<br>
   [Robust End-to-End Offline Chinese Handwriting Text Page Spotter with Text Kernel](https://link.springer.com/chapter/10.1007/978-3-030-86159-9_2) -ICDARW2021, [code](https://github.com/grsgth/Offline-Chinese-Handwriting-Text-Page-Spotter-with-Text-Kernel)<br>
