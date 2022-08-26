@@ -30,6 +30,7 @@
   [Fast multi-language LSTM-based online handwriting recognition](https://link.springer.com/article/10.1007/s10032-020-00350-4) -google, IJDAR2020<br>
   [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/abs/2006.15619) -intel, arxiv2020<br>
   [OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold](https://arxiv.org/abs/2006.07491) -CVPR2020, [code](https://github.com/IntuitionMachines/OrigamiNet)<br>
+  [Weakly Supervised Learning for Over-Segmentation Based Handwritten Chinese Text Recognition](https://ieeexplore.ieee.org/abstract/document/9257785) -liuchenglin, ICFHR2020<br>
   [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://arxiv.org/abs/2005.13044) -kang lei, arxiv2020<br>
   [Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition](https://arxiv.org/abs/1912.07806) -dujun, arxiv2019<br>
   [End to End Recognition System for Recognizing Offline Unconstrained Vietnamese Handwriting](https://arxiv.org/abs/1905.05381) -Masaki Nakagawa, arxiv2019<br>
