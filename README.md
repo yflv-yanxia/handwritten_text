@@ -17,7 +17,7 @@
   [DropSample: A New Training Method to Enhance Deep Convolutional Neural Networks for Large-Scale Unconstrained Handwritten Chinese Character Recognition](https://arxiv.org/ftp/arxiv/papers/1505/1505.05354.pdf) -jinlianwen, PR2016<br>
   
 ### Text Recognition
-  [Easter2.0: Improving convolutional models for handwritten text recognition](https://arxiv.org/abs/2205.14879?context=cs.AI) -google, arxiv2022, [code](https://github.com/kartikgill/Easter2)<br>
+  [Easter2.0: Improving convolutional models for handwritten text recognition](https://arxiv.org/abs/2205.14879?context=cs.AI) -arxiv2022, [code](https://github.com/kartikgill/Easter2)<br>
   [PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition](https://link.springer.com/article/10.1007/s11263-022-01654-0) -jinlianwen, IJCV2022, [code](https://github.com/shannanyinxiang/PageNet)<br>
   [Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach](https://arxiv.org/abs/2207.14801) -jinlianwen, TMM2022<br>
   [Recognizing Handwritten Chinese Texts with Insertion and Swapping Using a Structural Attention Network](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_37) -pal, ICDAR2021<br>
