@@ -80,6 +80,7 @@
    [Synthetic data generation for Indic handwritten text recognition](https://arxiv.org/abs/1804.06254) -Partha Pratim Roy, Akash Mohta, Bidyut B. Chaudhuri, arxiv2018<br>
    [Chinese Typography Transfer]() -Jie Chang, Yujun Gu, arxiv2017<br>
 ### Database
+   [GNHK-dataset](https://github.com/GoodNotes/GNHK-dataset)<br>
    [SCUT-HCCDoc_Dataset](https://github.com/HCIILAB/SCUT-HCCDoc_Dataset_Release)<br>
    [SCUT-EPT](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release)<br>
    [SCUT-EnsText](https://github.com/HCIILAB/SCUT-EnsText)<br>
