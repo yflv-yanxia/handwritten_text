@@ -1,6 +1,7 @@
 # handwritting_text
 ## Recognition
 ### Character Recognition 
+  [Convolutional Prototype Network for Open Set Recognition](https://ieeexplore.ieee.org/document/9296325) -hmyang, PAMI2020,[code]()<br>
   [LCSegNet: An Efficient Semantic Segmentation Network for Large-Scale Complex Chinese Character Recognition](https://ieeexplore.ieee.org/abstract/document/9204447) -TMM2020<br>
   [Radical analysis network for learning hierarchies of Chinese characters](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301096) -Dujun, PR2020<br>
   [LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303807) -Xu TB, PR2019<br>
